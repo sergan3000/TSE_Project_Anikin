@@ -1,0 +1,9 @@
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+tsfeatures>=0.4.3
+mlforecast>=0.10.0
+statsforecast>=1.6.0
+catboost>=1.2.0
+pyyaml>=6.0
+datasetsforecast>=0.3.0

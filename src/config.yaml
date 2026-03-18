@@ -1,0 +1,10 @@
+data_dir: "./data"
+m4_group: "Monthly"
+results_path: "results/metrics.csv"
+horizon: 12
+seasonality: 12
+freq: 1
+random_seed: 42
+n_clusters: 3
+lags: [1, 2, 3, 6, 12]
+catboost_iterations: 200
